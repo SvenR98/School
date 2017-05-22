@@ -1,0 +1,34 @@
+﻿
+body {
+
+}
+
+#Kop
+{
+    width: 100%;
+    height: 10%;
+    background: #ff6A00;
+    position:absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#Menu
+{
+    width: 20%;
+    height: 90%;
+    bottom: 0px;
+    background: #ffd800;
+    left: 0px;
+    position: absolute;
+}
+
+#Inhoud
+{
+    width: 80%;
+    height: 90%;
+    bottom: 0px;
+    background: #ffe97f;
+    right: 0px;
+    position: absolute;
+}
